@@ -2,6 +2,9 @@
 
 Applicazione web full-stack per la gestione di utenti, ruoli e inventario di un negozio.
 
+Backend: https://github.com/AngeloRusu24/EramusBE
+Frontend: https://github.com/AngeloRusu24/EramusFE
+
 ---
 
 ## Stack Tecnologico
